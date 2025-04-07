@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "armyMetadata", "armyMetadata\armyMetadata.csproj", "{2B7B6313-F584-4397-A8D9-849AACE654F9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "armyMetadata-new", "armyMetadata-new\armyMetadata-new.vdproj", "{6969DEA5-5647-4B0D-BF13-55C2C91E9839}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B7B6313-F584-4397-A8D9-849AACE654F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B7B6313-F584-4397-A8D9-849AACE654F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B7B6313-F584-4397-A8D9-849AACE654F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B7B6313-F584-4397-A8D9-849AACE654F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6969DEA5-5647-4B0D-BF13-55C2C91E9839}.Debug|Any CPU.ActiveCfg = Debug
+		{6969DEA5-5647-4B0D-BF13-55C2C91E9839}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8466EFB-31B0-4075-BDF5-D38E4FC0EFC0}
+	EndGlobalSection
+EndGlobal
